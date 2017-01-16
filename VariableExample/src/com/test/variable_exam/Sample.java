@@ -27,7 +27,7 @@ public class Sample {
 	 
 	
 	 
-	 
+	 while(){
 
 		 
 			 
@@ -320,6 +320,8 @@ public class Sample {
 			 System.out.println("b가 이겼습니다.");
 		 if(res_a == res_b)
 			 System.out.println("a와 b가 비겼습니다.");
+		 
+	}
 	}
 }
 
