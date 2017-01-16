@@ -6,11 +6,11 @@ public class Sample {
 	public static void main(String args[]){
 	 
 		Scanner scanner = new Scanner(System.in);
-        System.out.print("¿øÇÏ´Â ¼ıÀÚ¸¦ ÀÔ·ÂÇÏ½Ã¿À ");
+        System.out.print("Aì˜ ì›í•˜ëŠ” ìˆ«ìë¥¼ ì…ë ¥í•˜ì„¸ìš”. ");
         int a1 = scanner.nextInt();
         System.out.println("a1 = " + a1);
         
-        System.out.print("¿øÇÏ´Â ¼ıÀÚ¸¦ ÀÔ·ÂÇÏ½Ã¿À ");
+        System.out.print("Bì˜ ì›í•˜ëŠ” ìˆ«ìë¥¼ ì…ë ¥í•˜ì„¸ìš”. ");
         int b1 = scanner.nextInt();
         System.out.println("b1 = " + b1);
         
@@ -27,7 +27,7 @@ public class Sample {
 	 
 	
 	 
-	 while(){
+	 
 
 		 
 			 
@@ -35,46 +35,46 @@ public class Sample {
 		 	
 				 if(a1 == 1 &  a2==1){
 					 
-		 		System.out.println("1¶¯");
+		 		System.out.println("1ë•¡");
 		 		res_a = 10;
 				 }
 				 
 				 else if(a1 == 2 &  a2==2){
-		 		System.out.println("2¶¯");
+		 		System.out.println("2ë•¡");
 		 		res_a = 11;
 				 }
 				 
 				 else if(a1 == 3 &  a2==3){
-					 System.out.println("3¶¯");
+					 System.out.println("3ë•¡");
 					 res_a = 12;
 				 }
 				 else if(a1 == 4 &  a2==4){
-		 		System.out.println("4¶¯");
+		 		System.out.println("4ë•¡");
 		 		res_a = 14;
 				 }
 				 else if(a1 == 5 &  a2==5){
-		 		System.out.println("5¶¯");
+		 		System.out.println("5ë•¡");
 		 		res_a = 15;
 				 }
 				 else if(a1 == 6 &  a2==6){
-		 		System.out.println("6¶¯");
+		 		System.out.println("6ë•¡");
 		 		res_a = 16;
 				 }
 				 else if(a1 == 7 &  a2==7){
-		 		System.out.println("7¶¯");
+		 		System.out.println("7ë•¡");
 		 		res_a = 17;
 				 }
 				 else if(a1 == 8 &  a2==8){
-		 		System.out.println("8¶¯");
+		 		System.out.println("8ë•¡");
 		 		res_a = 18;
 				 }
 				 else if(a1 == 9 &  a2==9){
-		 		System.out.println("9¶¯");
+		 		System.out.println("9ë•¡");
 		 		res_a = 19;
 				 }
 		 	
 				 else if(a1 == 10 &  a2==10){
-		 		System.out.println("Àå¶¯");
+		 		System.out.println("ì¥ë•¡");
 		 		res_a = 20;
 				 }
 		 }
@@ -82,94 +82,94 @@ public class Sample {
 		 
 		 else {
 			 if(a1 + a2 ==3){
-			 		System.out.println("3²ı");
+			 		System.out.println("3ë—");
 			 		res_a = 3;
 			 		}
 			 
 			 if(a1 + a2 ==4){
-			 		System.out.println("4²ı");
+			 		System.out.println("4ë—");
 			 		res_a = 4;
 			 		}
 			 if(a1 + a2 ==5){
-			 		System.out.println("5²ı");
+			 		System.out.println("5ë—");
 			 		res_a = 5;
 			 		}
 			 if(a1 + a2 ==6){
-			 		System.out.println("6²ı");
+			 		System.out.println("6ë—");
 			 		res_a = 6;
 			 		}
 			 if(a1 + a2 ==7){
-			 		System.out.println("7²ı");
+			 		System.out.println("7ë—");
 			 		res_a = 7;
 			 		}
 			 if(a1 + a2 ==8){
-			 		System.out.println("8²ı");
+			 		System.out.println("8ë—");
 			 		res_a = 8;
 			 		}
 			 
 			 if(a1 + a2 ==9){
-			 		System.out.println("9²ı");
+			 		System.out.println("9ë—");
 			 		res_a = 9;
 			 		}
 			 
 		 if(a1 + a2 ==10){
-		 		System.out.println("¸ÁÅë");
+		 		System.out.println("ë§í†µ...");
 		 		res_a = 0;
 		 		}
 
 		    if(a1 + a2 ==11){
 		 	if(a1 == 3 & a2==8 || a1 ==8 & a2 ==3){
-		  System.out.println("38±¤¶¯!!!");
+		  System.out.println("38ê´‘ë•¡ !!!");
 		  res_a = 21;
 		  }
 		 	else {
-		 		System.out.println("1²ı");
+		 		System.out.println("1ë—");
 		 	res_a = 1;
 		 	}
 		 }
 
 		 if(a1 + a2 ==12){
-		 System.out.println("2²ı");
+		 System.out.println("2ë—");
 		 res_a = 2;
 		 }
 
 		 if(a1 + a2 ==13){
-		 System.out.println("3²ı");
+		 System.out.println("3ë—");
 		 res_a = 3;
 		 }
 
 		 if(a1 + a2 ==14){
-		 System.out.println("4²ı");
+		 System.out.println("4ë—");
 		 res_a = 4;
 		 }
 		 
 		 if(a1 + a2 ==15){
-		 System.out.println("5²ı");
+		 System.out.println("5ë—");
 		 res_a = 5;
 		 }
 		 
 		 if(a1 + a2 ==16){
-		 System.out.println("6²ı");
+		 System.out.println("6ë—");
 		 res_a = 6;
 		 }
 		 
 		 if(a1 + a2 ==17){
-		 System.out.println("7²ı");
+		 System.out.println("7ë—");
 		 res_a = 7;
 		 }
 		 
 		 if(a1 + a2 ==18){
-		 System.out.println("8²ı");
+		 System.out.println("8ë—");
 		 res_a = 8;
 		 }
 		 
 		 if(a1 + a2 ==19){
-		 System.out.println("9²ı");
+		 System.out.println("9ë—");
 		 res_a = 9;
 		 }
 		 
 		 if(a1 + a2 ==20){
-		 System.out.println("¸ÁÅë");
+		 System.out.println("ë§í†µ...");
 		 res_a = 0;
 		 }
 		 }
@@ -180,38 +180,38 @@ public class Sample {
 				 	
 				 if(b1 == 1 &  b2==1){
 					 
-		 		System.out.println("1¶¯");
+		 		System.out.println("1ë•¡");
 		 		res_b = 10;
 				 }
 				 else if(b1 == 2 &  b2==2){
-		 		System.out.println("2¶¯");
+		 		System.out.println("2ë•¡");
 		 		res_b = 11;
 				 }
 				 else if(b1 == 3 &  b2==3){
-					 System.out.println("3¶¯");
+					 System.out.println("3ë•¡");
 					 res_b = 12;
 				 }else if(b1 == 4 &  b2==4){
-		 		System.out.println("4¶¯");
+		 		System.out.println("4ë•¡");
 		 		res_b = 14;
 				 }else if(b1 == 5 &  b2==5){
-		 		System.out.println("5¶¯");
+		 		System.out.println("5ë•¡");
 		 		res_b = 15;
 				 }else if(b1 == 6 &  b2==6){
-		 		System.out.println("6¶¯");
+		 		System.out.println("6ë•¡");
 		 		res_b = 16;
 				 }else if(b1 == 7 &  b2==7){
-		 		System.out.println("7¶¯");
+		 		System.out.println("7ë•¡");
 		 		res_b = 17;
 				 }else if(b1 == 8 &  b2==8){
-		 		System.out.println("8¶¯");
+		 		System.out.println("8ë–™");
 		 		res_b = 18;
 				 }else if(b1 == 9 &  b2==9){
-		 		System.out.println("9¶¯");
+		 		System.out.println("9ë•¡");
 		 		res_b = 19;
 				 }
 		 	
 				 else if(b1 == 10 &  b2==10){
-		 		System.out.println("Àå¶¯");
+		 		System.out.println("ì¥ë•¡");
 		 		res_b = 20;
 				 }
 		 }
@@ -222,31 +222,31 @@ public class Sample {
 			 else {
 				 
 				 if(b1 + b2 ==3){
-				 		System.out.println("3²ı");
+				 		System.out.println("3ë—");
 				 		res_b = 3;
 				 		}
 				 if(b1 + b2 ==4){
-				 		System.out.println("4²ı");
+				 		System.out.println("4ë—");
 				 		res_b = 4;
 				 		}
 				 if(b1 + b2 ==5){
-				 		System.out.println("5²ı");
+				 		System.out.println("5ë—");
 				 		res_b = 5;
 				 		}
 				 if(b1 + b2 ==6){
-				 		System.out.println("6²ı");
+				 		System.out.println("6ë—");
 				 		res_b = 6;
 				 		}
 				 if(b1 + b2 ==7){
-				 		System.out.println("7²ı");
+				 		System.out.println("7ë—");
 				 		res_b = 7;
 				 		}
 				 if(b1 + b2 ==8){
-				 		System.out.println("8²ı");
+				 		System.out.println("8ë—");
 				 		res_b = 8;
 				 		}
 				 if(b1 + b2 ==9){
-				 		System.out.println("9²ı");
+				 		System.out.println("9ë—");
 				 		res_b = 9;
 				 		}
 				 
@@ -255,56 +255,56 @@ public class Sample {
 				 
 				 
 		 	if(b1 + b2 ==10){
-		 		System.out.println("¸ÁÅë");
+		 		System.out.println("ë§í†µ...");
 		 		res_b = 0;
 		 		}
 
 		 if(b1 + b2 ==11){
 		 	
 			 if(b1 == 3 & b2==8 || b1 ==8 & b2 ==3){
-		  System.out.println("38±¤¶¯!!!");
+		  System.out.println("38ê´‘ë•¡ !!!");
 		  res_b = 21;}
 			 
-		 	else {System.out.println("1²ı");
+		 	else {System.out.println("1ë—");
 		 	res_b = 1;}
 		 }
 
 		 if(b1 + b2 ==12){
-		 System.out.println("2²ı");
+		 System.out.println("2ë—");
 		 res_b = 2;
 		 }
 
 		 if(b1 + b2 ==13){
-		 System.out.println("3²ı");
+		 System.out.println("3ë—");
 		 res_b = 3;
 		 }
 
 		 if(b1 + b2 ==14){
-		 System.out.println("4²ı");
+		 System.out.println("4ë—");
 		 res_b = 4;
 		 }
 		 if(b1 + b2 ==15){
-		 System.out.println("5²ı");
+		 System.out.println("5ë—");
 		 res_b = 5;
 		 }
 		 if(b1 + b2 ==16){
-		 System.out.println("6²ı");
+		 System.out.println("6ë—");
 		 res_b = 6;
 		 }
 		 if(b1 + b2 ==17){
-		 System.out.println("7²ı");
+		 System.out.println("7ë—");
 		 res_b = 7;
 		 }
 		 if(b1 + b2 ==18){
-		 System.out.println("8²ı");
+		 System.out.println("8ë—");
 		 res_b = 8;
 		 }
 		 if(b1 + b2 ==19){
-		 System.out.println("9²ı");
+		 System.out.println("9ë—");
 		 res_b = 9;
 		 }
 		 if(b1 + b2 ==20){
-		 System.out.println("¸ÁÅë");
+		 System.out.println("ë§í†µ...");
 		 res_b = 0;
 		 }
 	 }
@@ -315,13 +315,13 @@ public class Sample {
 	
 	
 	 if (res_a > res_b)
-		 System.out.println("a°¡ ÀÌ°å½À´Ï´Ù.");
+		 System.out.println("Aê°€ ì´ê²¼ìŠµë‹ˆë‹¤ !");
 	 if(res_a < res_b)
-			 System.out.println("b°¡ ÀÌ°å½À´Ï´Ù.");
+			 System.out.println("Bê°€ ì´ê²¼ìŠµë‹ˆë‹¤ !");
 		 if(res_a == res_b)
-			 System.out.println("a¿Í b°¡ ºñ°å½À´Ï´Ù.");
+			 System.out.println("A ì™€ B ê°€ ë¹„ê²¼ìŠµë‹ˆë‹¤.");
 		 
-	}
+	
 	}
 }
 
